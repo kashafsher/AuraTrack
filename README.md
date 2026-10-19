@@ -4,9 +4,8 @@
 AuraTrack is a privacy-first desktop monitoring utility designed to assess room occupancy and noise levels in shared study environments (e.g., quiet study rooms, computer labs). By analyzing real-time decibel levels and audio frequency distributions via passive microphone input, the system infers occupancy and acoustic quality without recording speech or violating user privacy.
 
 ## Group Members
-| Name | Roll Number | Role |
 | Kashaf Sher | 23 | Scrum Master & Core DSP Lead |
-| Alishba Sadeeq|  | QA, Analytics & UI Lead |  
+| Alishba Sadeeq|  | Analytics & UI Lead |  
 
 ## Current Project Status
 - **Current Milestone:** Milestone 1 – Project Initiation & Requirements Documentation
