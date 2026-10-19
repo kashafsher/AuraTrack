@@ -5,7 +5,7 @@ AuraTrack is a privacy-first desktop monitoring utility designed to assess room 
 
 ## Group Members
 | Kashaf Sher | 23 | Scrum Master & Core DSP Lead |
-| Alishba Sadeeq|  | Analytics & UI Lead |  
+| Alishba Sadeeq| 6 | Analytics & UI Lead |  
 
 ## Current Project Status
 - **Current Milestone:** Milestone 1 – Project Initiation & Requirements Documentation
